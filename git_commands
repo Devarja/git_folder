@@ -1,0 +1,33 @@
+git - it is a software used to keep track about the changes made to the code or it is version control system
+
+1)  git init - used to initialize the repository
+
+2)  git add . - used to add the untrakced files to staged area
+
+3)  git commit - used to take the snapshot of the chnages made recently
+
+4)  git push origin main/master - used to push the maded chnages from local system to github repo
+
+5)  git remote add origin url_name - used to add the github url to local system
+
+6)  git stash - used to send the files from staged area to backstage
+
+7)  git stash pop - it is command used to take the backstage to staged area
+
+8)  git restore --staged file_name - it is command used make the staged files to untracked files
+
+9)  git status - used to check the status of the files
+
+10)  git log  - command used to get info about the recent commit
+
+11)  git reset hash_id  - It is a command used to delete the recent commits.
+
+12)  git remote -v  - it is a command used to check the url attached to a folder
+
+13)  git branch feature  - the command used to create a new branch
+
+14)  git checkout  feature  - checkout from the main branch to feature
+
+15)  git merge feature - used to merge the feature branch to main branch
+
+16)  
