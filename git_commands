@@ -30,4 +30,4 @@ git - it is a software used to keep track about the changes made to the code or 
 
 15)  git merge feature - used to merge the feature branch to main branch
 
-16)  
+16)  git rebase -i hash_id - to make all the commit into one commit  
